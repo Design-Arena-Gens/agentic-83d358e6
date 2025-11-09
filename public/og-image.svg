@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#4338ca" />
+      <stop offset="50%" stop-color="#1f2937" />
+      <stop offset="100%" stop-color="#020617" />
+    </linearGradient>
+    <linearGradient id="accent" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#f97316" />
+      <stop offset="100%" stop-color="#6366f1" />
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)" rx="32" />
+  <g fill="#9ca3af" font-family="'Inter', 'Segoe UI', sans-serif">
+    <text x="72" y="140" font-size="32" letter-spacing="0.2em" fill="#cbd5f5">AGENTIC SOCIAL MEDIA</text>
+    <text x="72" y="240" font-size="78" font-weight="700" fill="#f8fafc">Strategist Agent</text>
+    <text x="72" y="320" font-size="28">Persona-aware campaigns · Cross-channel calendars · AI copy studio</text>
+  </g>
+  <g transform="translate(72 380)">
+    <rect width="1056" height="160" fill="rgba(15,23,42,0.6)" rx="24" stroke="rgba(148,163,184,0.35)" />
+    <g transform="translate(48 56)" fill="#e2e8f0" font-size="26">
+      <text>→ Launch hero asset, repurpose across channels, choreograph engagement loops.</text>
+    </g>
+  </g>
+  <g transform="translate(980 56)">
+    <circle cx="0" cy="0" r="140" fill="url(#accent)" opacity="0.45" />
+  </g>
+</svg>
